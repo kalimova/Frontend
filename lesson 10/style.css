@@ -1,0 +1,63 @@
+body {
+  font-family: "Raleway", sans-serif;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.yanki{
+    background: #FFF;
+}
+.yanki__header{
+    padding-top: 93px;
+    padding-bottom: 30px;
+ 
+}
+.yanki__header svg{
+    margin-right: 10px;
+}
+.yanki__wrapper{
+    display: flex;
+    justify-content:space-between;
+    text-align: center;
+}
+.yanki__card{
+width: 32.2%;
+}
+
+.img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.yanki__title{
+    color: #252525;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 300;
+    margin-top: 5px;
+}
+
+.yanki__link{
+    color: #252525;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 700;
+    margin-top: 5px;
+}
+.yanki__text{
+    color: rgba(37, 37, 37, 0.50);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 300;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+

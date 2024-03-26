@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(143, 143, 238);
+    margin-bottom: 20px;
+
+}
+.fixed{
+position: sticky;
+right: 0;
+top: 0;
+}

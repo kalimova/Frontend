@@ -1,0 +1,28 @@
+/* ol{
+    counter-reset: li;
+}
+li::before{
+    counter-increment: li;
+    content: counter(li,".")"."
+}
+button{
+    color: white;
+    background-color: red;
+    font-size: 40px;
+} */
+
+.flex{
+    display: flex;
+}
+
+.image{
+ border-radius: 5%;
+ width: 150px;
+ height: 150px;
+}
+p{
+    text-align: center;
+}
+.color{
+    color: rgb(164, 23, 148);
+}

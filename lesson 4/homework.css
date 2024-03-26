@@ -1,0 +1,15 @@
+.flex{
+    display: flex;
+}
+
+.image{
+ border-radius: 5%;
+ width: 150px;
+ height: 150px;
+}
+p{
+    text-align: center;
+}
+.color{
+    color: rgb(164, 23, 148);
+}
